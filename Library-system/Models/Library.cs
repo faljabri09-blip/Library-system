@@ -21,5 +21,7 @@ namespace Library_system.Models
         public int contact_no { get; set; }
 
 
+        //Navigation
+        public Admin Admin { get; set; }
     }
 }

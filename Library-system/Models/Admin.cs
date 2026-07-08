@@ -21,5 +21,9 @@ namespace Library_system.Models
         [MaxLength(50)]
         public string contact_no { get; set; }
 
+        //Navigation
+
+        public Library Library { get; set; }
+
     }
 }
