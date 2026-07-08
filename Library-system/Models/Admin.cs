@@ -25,5 +25,7 @@ namespace Library_system.Models
 
         public Library Library { get; set; }
 
+        public ICollection<Employee> Employees { get; set; }
+
     }
 }

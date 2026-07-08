@@ -23,5 +23,9 @@ namespace Library_system.Models
         [Required]
         [MaxLength(50)]
         public int mobile_no { get; set; }
+
+
+        //Navigation
+        public Admin Admin { get; set; }
     }
 }
