@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|c:\\users\\fatma aljabri\\desktop\\karim back-end\\library-system\\library-system\\library-system\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|solutionrelative:library-system\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|c:\\users\\fatma aljabri\\desktop\\karim back-end\\library-system\\library-system\\library-system\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|solutionrelative:library-system\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|c:\\users\\fatma aljabri\\desktop\\karim back-end\\library-system\\library-system\\library-system\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|solutionrelative:library-system\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|c:\\users\\fatma aljabri\\desktop\\karim back-end\\library-system\\library-system\\library-system\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|solutionrelative:library-system\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|c:\\users\\fatma aljabri\\desktop\\karim back-end\\library-system\\library-system\\library-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -35,32 +35,33 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T07:25:36.681Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Publisher.cs",
-              "DocumentMoniker": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\Models\\Publisher.cs",
-              "RelativeDocumentMoniker": "Library-system\\Models\\Publisher.cs",
-              "ToolTip": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\Models\\Publisher.cs",
-              "RelativeToolTip": "Library-system\\Models\\Publisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T08:50:39.455Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Library-system\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\Models\\Author.cs",
+              "RelativeToolTip": "Library-system\\Models\\Author.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T08:53:14.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Books.cs",
               "DocumentMoniker": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\Models\\Books.cs",
               "RelativeDocumentMoniker": "Library-system\\Models\\Books.cs",
               "ToolTip": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\Models\\Books.cs",
               "RelativeToolTip": "Library-system\\Models\\Books.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wB4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T08:48:15.145Z",
+              "WhenOpened": "2026-07-08T08:53:12.958Z",
               "EditorCaption": ""
             }
           ]

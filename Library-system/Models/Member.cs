@@ -36,5 +36,7 @@ namespace Library_system.Models
 
         [Required]
         public string pin_code { get; set; }
+
+        public ICollection<Employee> Employees { get; set; }
     }
 }

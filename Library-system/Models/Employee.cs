@@ -29,5 +29,7 @@ namespace Library_system.Models
         public Admin Admin { get; set; }
 
         public ICollection<Books> books { get; set; }
+
+        public ICollection<Member> Members { get; set; }
     }
 }
