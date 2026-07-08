@@ -13,6 +13,7 @@ namespace Library_system.Models
         public string VendorCode { get; set; }
 
         [Required] // not null
+        [MaxLength(50)]
         public int Contact_no { get; set; }
     }
 }

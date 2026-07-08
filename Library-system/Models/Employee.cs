@@ -13,13 +13,15 @@ namespace Library_system.Models
         public int employeeId { get; set; }
 
         [Required]
+        [MaxLength(100)]
         public string employeeName { get; set; }
 
         [Required]
-
+        [MaxLength(100)]
         public string employeeDesignation { get; set; }
 
         [Required]
+        [MaxLength(50)]
         public int mobile_no { get; set; }
     }
 }

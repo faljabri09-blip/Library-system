@@ -14,6 +14,7 @@ namespace Library_system.Models
 
         [Required]
         public bool satus { get; set; }
+
         [Required]
         public decimal bookPrice { get; set; }
     }

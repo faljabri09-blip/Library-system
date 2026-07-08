@@ -14,9 +14,11 @@ namespace Library_system.Models
         public int AdminId { get; set; }
 
         [Required] // not null
+        [MaxLength(100)]
         public string AdminName { get; set; }
 
         [Required] //NotNull
+        [MaxLength(50)]
         public string contact_no { get; set; }
 
     }

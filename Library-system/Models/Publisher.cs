@@ -13,9 +13,11 @@ namespace Library_system.Models
         public string publisherCode { get; set; }
 
         [Required]
+        [MaxLength(100)]
         public string publisherName { get; set; }
 
         [Required]
+        [MaxLength(100)]
         public string publisherCountry { get; set; }
     }
 }
