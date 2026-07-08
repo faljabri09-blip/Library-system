@@ -21,5 +21,7 @@ namespace Library_system.Models
         public decimal bookPrice { get; set; }
 
         public ICollection<Vendor> vendors { get; set; } // Navigation
+
+        public Employee Employee { get; set; }
     }
 }

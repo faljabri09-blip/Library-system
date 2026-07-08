@@ -27,5 +27,7 @@ namespace Library_system.Models
 
         //Navigation
         public Admin Admin { get; set; }
+
+        public ICollection<Books> books { get; set; }
     }
 }
