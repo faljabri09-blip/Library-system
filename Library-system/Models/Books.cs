@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Library_system.Models
 {
+    [Table("Books")]
     public class Books
     {
         [Key] //primary key and not null
@@ -17,5 +19,9 @@ namespace Library_system.Models
 
         [Required]
         public decimal bookPrice { get; set; }
+
+
+
+        public ICollection<Vendor> vendors { get; set; } // Navigation
     }
 }
