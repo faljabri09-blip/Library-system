@@ -25,5 +25,9 @@ namespace Library_system.Models
         [Required]
         [MaxLength(100)]
         public string authorQualification { get; set; }
+
+        //Navigation 
+
+        public ICollection<Books> books { get; set; }
     }
 }

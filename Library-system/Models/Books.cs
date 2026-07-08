@@ -27,5 +27,7 @@ namespace Library_system.Models
         public Employee Employee { get; set; }
 
         public Publisher Publisher { get; set; }
+
+        public Author Author { get; set; }
     }
 }
