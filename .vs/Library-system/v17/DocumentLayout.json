@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|c:\\users\\fatma aljabri\\desktop\\karim back-end\\library-system\\library-system\\library-system\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|solutionrelative:library-system\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|c:\\users\\fatma aljabri\\desktop\\karim back-end\\library-system\\library-system\\library-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|solutionrelative:library-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\Program.cs",
               "RelativeDocumentMoniker": "Library-system\\Program.cs",
@@ -28,6 +32,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T07:25:36.681Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Library-system\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\LibraryContext.cs",
+              "RelativeToolTip": "Library-system\\LibraryContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T09:02:53.562Z",
               "EditorCaption": ""
             }
           ]
