@@ -20,8 +20,12 @@ namespace Library_system.Models
         [Required]
         public decimal bookPrice { get; set; }
 
+
+        //Navigation 
         public ICollection<Vendor> vendors { get; set; } // Navigation
 
         public Employee Employee { get; set; }
+
+        public Publisher Publisher { get; set; }
     }
 }

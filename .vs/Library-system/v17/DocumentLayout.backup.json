@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|c:\\users\\fatma aljabri\\desktop\\karim back-end\\library-system\\library-system\\library-system\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|solutionrelative:library-system\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|c:\\users\\fatma aljabri\\desktop\\karim back-end\\library-system\\library-system\\library-system\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|solutionrelative:library-system\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|c:\\users\\fatma aljabri\\desktop\\karim back-end\\library-system\\library-system\\library-system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -35,7 +35,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T07:25:36.681Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "Library-system\\Models\\Books.cs",
+              "ToolTip": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\Models\\Books.cs",
+              "RelativeToolTip": "Library-system\\Models\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T08:48:15.145Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -45,22 +59,9 @@
               "RelativeDocumentMoniker": "Library-system\\Models\\Employee.cs",
               "ToolTip": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\Models\\Employee.cs",
               "RelativeToolTip": "Library-system\\Models\\Employee.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wB4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T08:40:09.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\Models\\Admin.cs",
-              "RelativeDocumentMoniker": "Library-system\\Models\\Admin.cs",
-              "ToolTip": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\Models\\Admin.cs",
-              "RelativeToolTip": "Library-system\\Models\\Admin.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAIBBwBsAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T08:35:42.934Z",
+              "WhenOpened": "2026-07-08T08:48:14.378Z",
               "EditorCaption": ""
             }
           ]
