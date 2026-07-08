@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|c:\\users\\fatma aljabri\\desktop\\karim back-end\\library-system\\library-system\\library-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0E1E15-97DE-43BA-9108-065BCFE9DAFC}|Library-system\\Library-system.csproj|solutionrelative:library-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\Program.cs",
+              "RelativeDocumentMoniker": "Library-system\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatma ALjabri\\Desktop\\Karim Back-End\\Library-system\\Library-system\\Library-system\\Program.cs",
+              "RelativeToolTip": "Library-system\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T07:25:36.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
